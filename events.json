@@ -1,0 +1,44 @@
+{
+    "Monday": [
+        {"emoji": ":konci:", "name": "Koncentrált olvasás", "start": "00:00", "end": "11:59"},
+        {"emoji": ":sarkanybab:", "name": "Zöld sárkány-bab", "start": "12:00", "end": "15:59"},
+        {"emoji": ":aldasteki:", "name": "Áldástekercs", "start": "16:00", "end": "19:59"},
+        {"emoji": ":nugget:", "name": "Nugget (zöld)", "start": "20:00", "end": "23:59"}
+    ],
+    "Tuesday": [
+        {"emoji": ":nap_elixir_M:", "name": "Nap elixír (közepes)", "start": "00:00", "end": "11:59"},
+        {"emoji": ":Cor_Draconis:", "name": "Cor Draconis (nyers)", "start": "12:00", "end": "15:59"},
+        {"emoji": ":ahitat_S:", "name": "Kicsi áhítat", "start": "16:00", "end": "19:59"},
+        {"emoji": ":megbuvolo_B:", "name": "Megbűvölő tárgy (B)", "start": "20:00", "end": "23:59"}
+    ],
+    "Wednesday": [
+        {"emoji": ":halkirakos_lada:", "name": "Hal-kirakós", "start": "00:00", "end": "11:59"},
+        {"emoji": ":marvany:", "name": "Megáldó márvány", "start": "12:00", "end": "15:59"},
+        {"emoji": ":konci:", "name": "Koncentrált olvasás", "start": "16:00", "end": "19:59"},
+        {"emoji": ":metinko:", "name": "Szuperkövek", "start": "20:00", "end": "23:59"}
+    ],
+    "Thursday": [
+        {"emoji": ":hold_elixir_M:", "name": "Hold elixír (közepes)", "start": "00:00", "end": "11:59"},
+        {"emoji": ":ahitat_S:", "name": "Kicsi áhítat", "start": "12:00", "end": "15:59"},
+        {"emoji": ":Cor_Draconis:", "name": "Cor Draconis (nyers)", "start": "16:00", "end": "19:59"},
+        {"emoji": ":megerosito_B:", "name": "Tárgy-megerősítő (B)", "start": "20:00", "end": "23:59"}
+    ],
+    "Friday": [
+        {"emoji": ":sarkanybab:", "name": "Zöld sárkány-bab", "start": "00:00", "end": "11:59"},
+        {"emoji": ":megbuvolo_B:", "name": "Megbűvölő tárgy (B)", "start": "12:00", "end": "15:59"},
+        {"emoji": ":metinko:", "name": "Szuperkövek", "start": "16:00", "end": "19:59"},
+        {"emoji": ":Cor_Draconis:", "name": "Cor Draconis (nyers)", "start": "20:00", "end": "23:59"}
+    ],
+    "Saturday": [
+        {"emoji": ":aldasteki:", "name": "Áldástekercs", "start": "00:00", "end": "11:59"},
+        {"emoji": ":halkirakos_lada:", "name": "Hal-kirakós", "start": "12:00", "end": "15:59"},
+        {"emoji": ":robin_pecset:", "name": "Robin pecsét [1 nap]", "start": "16:00", "end": "19:59"},
+        {"emoji": ":holdfeny:", "name": "Holdfény Kincsesláda", "start": "20:00", "end": "23:59"}
+    ],
+    "Sunday": [
+        {"emoji": ":ordoguzo:", "name": "Ördögűző tekercs", "start": "00:00", "end": "11:59"},
+        {"emoji": ":megerosito_B:", "name": "Tárgy megerősítő (B)", "start": "12:00", "end": "15:59"},
+        {"emoji": ":ordoguzo:", "name": "Ördögűző tekercs", "start": "16:00", "end": "19:59"},
+        {"emoji": ":vezer_konyve:", "name": "Vezér könyve", "start": "20:00", "end": "23:59"}
+    ]
+}
