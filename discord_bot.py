@@ -5,6 +5,7 @@ from discord.ext import commands, tasks
 from datetime import datetime
 import pytz
 from dotenv import load_dotenv
+from keep_alive import keep_alive
 
 # Load environment variables
 load_dotenv()
@@ -111,4 +112,5 @@ async def check_events():
             await delete_bot_messages(channel)
             await post_event(channel, current_event)
 
+keep_alive()
 bot.run(TOKEN)
